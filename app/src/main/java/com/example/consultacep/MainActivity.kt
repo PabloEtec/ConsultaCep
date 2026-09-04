@@ -38,8 +38,7 @@ class MainActivity : AppCompatActivity() {
         val txtBairro = findViewById<EditText>(R.id.txtBairro)
 
         val txtUF = findViewById<EditText>(R.id.txtUF)
-
-
+        
         val txtDDD = findViewById<EditText>(R.id.txtDDD)
     }
 }
